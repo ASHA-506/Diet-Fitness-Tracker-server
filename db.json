@@ -1,0 +1,116 @@
+{
+  "users": [],
+  "meals": [
+    {
+      "userId": "1794758415353",
+      "date": "11/26/2026",
+      "mealType": "Breakfast",
+      "foodItems": "Dosa,Sambar",
+      "calories": 250,
+      "id": 1
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/26/2026",
+      "mealType": "Mid Snack",
+      "foodItems": "ellunda",
+      "calories": 200,
+      "id": 2
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/26/2026",
+      "mealType": "Lunch",
+      "foodItems": "biscuit ",
+      "calories": 566,
+      "id": 3
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/27/2026",
+      "mealType": "Breakfast",
+      "foodItems": "Dosa ,Sambar and Chutney",
+      "calories": 500,
+      "id": 4
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/27/2026",
+      "mealType": "Mid Snack",
+      "foodItems": "biscuits",
+      "calories": 200,
+      "id": 5
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/27/2026",
+      "mealType": "Lunch",
+      "foodItems": "rice and sambar",
+      "calories": 500,
+      "id": 6
+    }
+  ],
+  "workouts": [
+    {
+      "userId": "1794758415353",
+      "workoutType": "Hiking",
+      "time": "30",
+      "calorie": 589,
+      "date": "11/26/2026",
+      "id": 1
+    },
+    {
+      "userId": "1794758415353",
+      "workoutType": "Elliptical",
+      "time": "10",
+      "calorie": 23,
+      "date": "11/27/2026",
+      "id": 2
+    }
+  ],
+  "water": [
+    {
+      "userId": "1794758415353",
+      "date": "11/26/2026",
+      "glasses": 12,
+      "id": 1
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/27/2026",
+      "glasses": 15,
+      "id": 2
+    }
+  ],
+  "schedules": [],
+  "logs": [
+    {
+      "userId": "1794758415353",
+      "date": "11/26/2026",
+      "downloadedAt": "11/26/2026,5:50:36 PM",
+      "username": "Rishith",
+      "email": "rishith@gmail.com",
+      "mealsCount": 3,
+      "totalCalories": 1016,
+      "totalGlasses": 12,
+      "totalWaterMl": 2400,
+      "workoutsCount": 1,
+      "totalBurned": 589,
+      "id": 1
+    },
+    {
+      "userId": "1794758415353",
+      "date": "11/27/2026",
+      "downloadedAt": "11/27/2026,11:27:02 AM",
+      "username": "Rishith",
+      "email": "rishith@gmail.com",
+      "mealsCount": 3,
+      "totalCalories": 1200,
+      "totalGlasses": 15,
+      "totalWaterMl": 3000,
+      "workoutsCount": 1,
+      "totalBurned": 23,
+      "id": 2
+    }
+  ]
+}

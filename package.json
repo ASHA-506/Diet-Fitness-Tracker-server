@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Server for  Diet & Fitness Tracker\"",
+  "main": "index.js",
+  "scripts": {
+"start": "json-server db.json"
+  },
+  "author": "\"Asha P Mohan\"",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
